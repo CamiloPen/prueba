@@ -1,0 +1,9 @@
+document_id,name,email,role,active,create_at
+200000001,Admin Principal,admin.principal@soporte.com,admin,true,2024-01-01 08:00:00
+200000002,Admin Secundario,admin.secundario@soporte.com,admin,true,2024-01-01 09:30:00
+200000003,Ana Soporte,ana.soporte@soporte.com,agente,true,2024-01-02 10:15:00
+200000004,Carlos Ayuda,carlos.ayuda@soporte.com,agente,true,2024-01-02 11:20:00
+200000005,Laura Asistencia,laura.asistencia@soporte.com,agente,true,2024-01-03 08:45:00
+200000006,Pedro Respaldo,pedro.respaldo@soporte.com,agente,true,2024-01-03 14:30:00
+200000007,Sofía Soluciones,sofia.soluciones@soporte.com,agente,true,2024-01-04 10:10:00
+200000008,Diego Atencion,diego.atencion@soporte.com,agente,false,2024-01-04 16:20:00

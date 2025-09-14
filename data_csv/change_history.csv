@@ -1,0 +1,47 @@
+request_id,user_id,modified_field,old_value,new_value,changed_at
+1,200000003,state,abierta,en_proceso,2025-07-10 10:00:00
+1,200000003,state,en_proceso,cerrada,2025-07-17 16:45:00
+1,200000003,priority,alta,media,2025-07-10 10:30:00
+2,200000004,state,abierta,en_proceso,2025-07-10 10:30:00
+3,200000005,state,abierta,cerrada,2025-07-19 12:15:00
+4,200000003,priority,media,alta,2025-07-12 08:30:00
+6,200000006,state,abierta,en_proceso,2025-07-14 09:50:00
+7,200000003,state,abierta,en_proceso,2025-07-15 08:20:00
+7,200000003,state,en_proceso,cerrada,2025-07-23 14:20:00
+8,200000004,state,abierta,cerrada,2025-07-24 10:10:00
+9,200000005,state,abierta,en_proceso,2025-07-18 11:20:00
+9,200000005,priority,alta,critica,2025-07-18 11:45:00
+11,200000006,state,abierta,cerrada,2025-07-19 13:30:00
+12,200000003,state,abierta,en_proceso,2025-07-22 17:00:00
+12,200000003,priority,media,alta,2025-07-22 17:20:00
+14,200000004,state,abierta,cerrada,2025-08-12 13:40:00
+15,200000005,state,abierta,en_proceso,2025-07-25 10:55:00
+15,200000005,priority,media,alta,2025-07-25 11:10:00
+17,200000006,state,abierta,cerrada,2025-07-28 15:05:00
+18,200000003,state,abierta,en_proceso,2025-08-01 09:15:00
+18,200000003,priority,media,alta,2025-08-01 09:40:00
+20,200000004,state,abierta,cerrada,2025-08-10 09:20:00
+21,200000005,state,abierta,en_proceso,2025-08-06 09:20:00
+21,200000005,priority,alta,critica,2025-08-06 09:45:00
+23,200000006,state,abierta,cerrada,2025-08-10 09:30:00
+24,200000003,state,abierta,en_proceso,2025-08-03 10:20:00
+24,200000003,priority,media,alta,2025-08-03 10:40:00
+26,200000004,state,abierta,cerrada,2025-08-13 12:30:00
+27,200000005,state,abierta,en_proceso,2025-08-23 10:40:00
+27,200000005,priority,alta,media,2025-08-23 11:00:00
+29,200000006,state,abierta,cerrada,2025-08-17 16:20:00
+30,200000003,state,abierta,en_proceso,2025-08-29 14:40:00
+30,200000003,priority,alta,critica,2025-08-29 15:00:00
+32,200000004,state,abierta,cerrada,2025-08-19 11:05:00
+33,200000005,state,abierta,en_proceso,2025-09-05 12:10:00
+33,200000005,priority,media,alta,2025-09-05 12:30:00
+35,200000006,state,abierta,cerrada,2025-09-10 14:45:00
+2,200000004,description,"La factura #12345 muestra montos incorrectos","La factura #12345 muestra montos incorrectos. He verificado con el equipo de facturación.",2025-07-11 09:20:00
+9,200000005,description,"El cálculo de impuestos está incorrecto en el sistema","El cálculo de impuestos está incorrecto en el sistema. No considera la nueva reforma tributaria.",2025-07-19 14:00:00
+15,200000005,description,"El reporte financiero no incluye todos los datos","El reporte financiero no incluye todos los datos de las transacciones del último trimestre.",2025-07-26 10:30:00
+21,200000005,description,"Las comisiones de ventas se calculan incorrectamente","Las comisiones de ventas se calculan incorrectamente para el equipo de ventas norte.",2025-08-07 14:45:00
+24,200000003,description,"La integración con PayPal no funciona correctamente","La integración con PayPal no funciona correctamente para pagos internacionales.",2025-08-04 11:20:00
+30,200000003,description,"El inventario no coincide con la realidad","El inventario no coincide con la realidad física en bodega. Hay discrepancia de 15%.",2025-08-30 10:20:00
+33,200000005,description,"Los SMS no llegan a los destinatarios","Los SMS no llegan a los destinatarios con números internacionales.",2025-09-06 13:30:00
+5,200000003,priority,media,alta,2025-07-13 11:30:00
+13,200000004,priority,critica,alta,2025-08-07 15:40:00

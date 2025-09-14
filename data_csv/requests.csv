@@ -1,0 +1,41 @@
+client_id,title,description,state,priority,agent_id,created_at,updated_at,closed_at
+100000001,Problema con login,No puedo iniciar sesión en la plataforma: me dice credenciales incorrectas,cerrada,alta,200000003,2025-07-10 09:15:00,2025-07-10 11:30:00,2025-07-17 16:45:00
+100000002,Error en reporte,El reporte de ventas muestra cifras incorrectas,en_proceso,critica,200000002,2025-07-10 10:00:00,2025-07-10 10:45:00,
+100000003,Pregunta sobre funcionalidad,¿Cómo puedo exportar mis reportes en PDF?,cerrada,baja,200000005,2025-07-11 11:45:00,2025-07-11 12:15:00,2025-07-19 12:15:00
+100000004,Problema de acceso,Mi cuenta fue bloqueada por intentos fallidos,abierta,alta,200000001,2025-07-12 08:20:00,2025-07-12 08:25:00,
+100000005,Solicitud de mejora,Sería útil tener integración con Google Drive,en_proceso,media,200000004,2025-07-13 14:10:00,2025-07-13 14:50:00,
+100000006,Error en notificaciones,No recibo notificaciones push,en_proceso,alta,200000002,2025-07-14 09:35:00,2025-07-14 10:00:00,
+100000001,Problema con notificaciones,No estoy recibiendo notificaciones por email,cerrada,media,200000003,2025-07-15 08:05:00,2025-07-15 09:45:00,2025-07-23 14:20:00
+100000007,Consulta sobre integración,¿Es posible integrar con Salesforce?,cerrada,baja,200000004,2025-07-16 09:20:00,2025-07-16 10:10:00,2025-07-24 10:10:00
+100000008,Problema con facturación,Se me cobró doble este mes,abierta,critica,200000001,2025-07-18 10:40:00,2025-07-18 11:05:00,
+100000010,Actualización de información,Necesito actualizar mi información de contacto,cerrada,baja,200000006,2025-07-19 13:05:00,2025-07-19 13:30:00,2025-07-28 13:30:00
+100000011,Error en mobile app,La aplicación se cierra al intentar abrir reportes,en_proceso,alta,200000002,2025-07-20 07:55:00,2025-07-20 08:40:00,
+100000012,Duda sobre permisos,¿Cómo configuro los permisos de mi equipo?,cerrada,media,200000004,2025-07-22 16:50:00,2025-07-22 17:25:00,2025-08-01 17:25:00
+100000013,Solicitud de soporte técnico,Mi sistema está muy lento,abierta,alta,200000001,2025-07-23 09:10:00,2025-07-23 09:30:00,
+100000014,Problema con API,Recibo error 500 al consumir la API,en_proceso,critica,200000002,2025-07-24 15:25:00,2025-07-24 15:55:00,
+100000015,Solicitud de entrenamiento,Necesito capacitación sobre las nuevas funcionalidades,cerrada,baja,200000006,2025-07-25 10:45:00,2025-07-25 11:15:00,2025-08-05 11:15:00
+100000016,Problema con base de datos,No se está sincronizando la base de datos,en_proceso,alta,200000002,2025-07-27 11:30:00,2025-07-27 12:00:00,
+100000017,Consulta sobre licencia,¿Qué incluye la licencia enterprise?,cerrada,baja,200000004,2025-07-28 14:30:00,2025-07-28 15:05:00,2025-08-07 15:05:00
+100000018,Problema con backups,No se están generando los respaldos automáticos,en_proceso,critica,200000002,2025-08-01 09:00:00,2025-08-01 09:35:00,
+100000020,Solicitud de datos,Necesito exportar todos mis datos históricos,cerrada,media,200000006,2025-08-02 08:15:00,2025-08-02 09:20:00,2025-08-10 09:20:00
+100000006,Consulta sobre SLA,¿Cuál es el tiempo de respuesta garantizado?,cerrada,baja,200000004,2025-08-05 12:00:00,2025-08-05 12:30:00,2025-08-13 12:30:00
+100000008,Problema con contraseñas,No puedo restablecer mi contraseña,abierta,alta,200000001,2025-08-06 08:20:00,2025-08-06 08:45:00,
+100000009,Solicitud de personalización,Necesito personalizar los campos del formulario,cerrada,media,200000006,2025-08-08 15:45:00,2025-08-08 16:20:00,2025-08-17 16:20:00
+100000010,Error en dashboard,El dashboard no carga correctamente,en_proceso,alta,200000002,2025-08-09 10:10:00,2025-08-09 10:55:00,
+100000012,Consulta sobre actualización,¿Cuándo estará disponible la próxima actualización?,cerrada,baja,200000004,2025-08-11 10:30:00,2025-08-11 11:05:00,2025-08-19 11:05:00
+100000014,Problema con correos,Los correos llegan con retraso,abierta,media,200000003,2025-08-12 13:15:00,2025-08-12 13:40:00,
+100000015,Solicitud de API key,Necesito una nueva API key para desarrollo,cerrada,baja,200000006,2025-08-14 14:15:00,2025-08-14 14:45:00,2025-08-22 14:45:00
+100000017,Error en autenticación,El sistema no reconoce mis credenciales,en_proceso,critica,200000002,2025-08-15 09:50:00,2025-08-15 10:30:00,
+100000018,Consulta sobre seguridad,¿Qué medidas de seguridad implementan?,cerrada,baja,200000004,2025-08-17 08:00:00,2025-08-17 08:35:00,2025-08-26 08:35:00
+100000019,Problema con integraciones,La integración con Slack no funciona,abierta,alta,200000001,2025-08-18 12:40:00,2025-08-18 13:10:00,
+100000003,Consulta sobre migración,¿Cómo migro mis datos desde el sistema anterior?,cerrada,media,200000003,2025-08-22 14:15:00,2025-08-22 14:50:00,2025-08-31 14:50:00
+100000005,Problema con reportes financieros,Los reportes financieros no cuadran,en_proceso,alta,200000002,2025-08-23 10:25:00,2025-08-23 11:00:00,
+100000006,Solicitud de custom report,Necesito un reporte personalizado con datos específicos,cerrada,media,200000005,2025-08-25 08:00:00,2025-08-25 08:45:00,2025-04-02 08:45:00
+100000007,Error en búsqueda,La búsqueda no devuelve resultados correctos,abierta,media,200000003,2025-08-26 09:35:00,2025-08-26 10:10:00,
+100000009,Consulta sobre facturación recurrente,¿Cómo configuro la facturación recurrente?,cerrada,baja,200000003,2025-08-28 11:45:00,2025-08-28 12:20:00,2025-04-05 12:20:00
+100000010,Problema con notificaciones SMS,No llegan notificaciones por SMS,en_proceso,alta,200000002,2025-08-29 14:20:00,2025-08-29 14:50:00,
+100000011,Error en autenticación 2FA,El código de autenticación de dos pasos no llega al correo,en_proceso,alta,200000003,2025-09-02 09:10:00,2025-09-03 10:20:00,
+100000012,Problema con reporte mensual,El reporte mensual no se genera correctamente,cerrada,media,200000004,2025-09-05 11:45:00,2025-09-05 12:30:00,2025-09-10 14:15:00
+100000013,Solicitud de nueva integración,Necesito integrar con Google Calendar,abierta,baja,200000005,2025-09-07 14:25:00,2025-09-07 14:25:00,
+100000014,Error en notificaciones push,Las notificaciones push llegan duplicadas,en_proceso,alta,200000006,2025-09-10 08:30:00,2025-09-11 09:40:00,
+100000015,Consulta sobre seguridad de datos,¿Dónde se almacenan mis datos personales?,cerrada,baja,200000007,2025-09-12 10:15:00,2025-09-12 11:05:00,2025-09-17 16:20:00
