@@ -73,3 +73,32 @@ Se aplican reglas de negocio y normalización para adaptar los datos al modelo r
   });
 
 ---
+
+# 📦 Backups y Recuperación de Datos 
+
+---
+
+## 🔹 Cómo hacer los backups
+1. **Respaldos completos**
+   - Se guarda toda la base de datos una vez a la semana.9    
+   - Ejemplo en MySQL:
+     ```bash
+     mysqldump -u usuario -p sistema_soporte > backup_completo.sql
+     ```
+
+2. **Respaldos diarios**
+   - Se guardan solo los cambios recientes.
+   - Así no ocupamos tanto espacio.
+
+3. **Guardar en varios lugares**
+   - Un respaldo en el mismo servidor.
+   - Otro respaldo en la nube (Google Drive, Dropbox, AWS S3, etc.).
+   - Esto ayuda si el computador principal se daña.
+
+---
+
+## 🔹 Recuperación (cuando algo falla)
+1. Buscar el archivo de backup más reciente (ejemplo: `backup_completo.sql`).
+2. Restaurar con MySQL:
+   ```bash
+   mysql -u usuario -p sistema_soporte < backup_completo.sql
