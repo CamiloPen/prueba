@@ -9,6 +9,15 @@ Aquí se encuentran los siguientes archivos de soporte para la base de datos:
 
 ---
 
+# 📂 Carpeta: `dashboards`
+
+Aquí se encuentran las siguientes imagenes:
+
+- **Tiempo promedio de resolución por agente.** → `resolucionxagente.jpg`
+- **Ranking de clientes con más solicitudes.** → `solicitudesxcliente.jpg`
+
+---
+
 # ETL de Sistema de Soporte
 
 Este proyecto implementa un flujo **ETL (Extract, Transform, Load)** en **Node.js** para poblar la base de datos **MySQL** del sistema de soporte a partir de archivos CSV.
